@@ -1,0 +1,19 @@
+.mainclass{
+	background-color:rgb(56, 53, 56);
+    min-height: 75px;
+    color:white;
+    text-align: center;
+    padding-top:15px;
+}
+.j{
+	height: 100%;
+	width: 90%;
+	margin: auto;
+}
+.li{
+	display: inline-block;
+	margin:20px;
+}
+body{
+	background-image: url('https://previews.123rf.com/images/leventegyori/leventegyori1506/leventegyori150600144/41664052-doctor-with-medical-background.jpg');
+}
