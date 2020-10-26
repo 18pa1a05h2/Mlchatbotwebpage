@@ -15,4 +15,4 @@ Now a days many people are loosing their lifes due to sudden health issues and e
  ![Block diagram](https://raw.githubusercontent.com/18pa1a05h2/MLchatbot/main/Blank%20diagram.png)
 
 ## Youtube video link
- [![youtube video link](https://img.youtube.com/vi/Y647JGv1Zn4/0.jpg)](https://www.youtube.com/watch?v=Y647JGv1Zn4)
+ [![youtube video link](https://img.youtube.com/vi/MQtfDaP5tck/0.jpg)](https://www.youtube.com/watch?v=MQtfDaP5tck)
