@@ -13,3 +13,7 @@ Now a days many people are loosing their lifes due to sudden health issues and e
 
 ## Youtube video link
  [![youtube video link](https://img.youtube.com/vi/MQtfDaP5tck/0.jpg)](https://www.youtube.com/watch?v=MQtfDaP5tck)
+
+
+## Block diagram of my chatbot
+ ![Block diagram](https://raw.githubusercontent.com/18pa1a05h2/MLchatbot/main/Blank%20diagram.png)
